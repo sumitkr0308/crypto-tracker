@@ -14,7 +14,7 @@ Displays real-time data from the CoinGecko API with sorting, searching, and dark
 
 Check out the live app here:
 
-👉 Crypto Tracker – (https://crypto-tracker-by-sumit.netlify.app/)
+👉 Crypto Tracker – ([crypto-tracker](https://crypto-tracker-by-sumit.netlify.app/)
 
 Note: Replace the above link with your actual deployed URL (e.g., from Vercel, Netlify, or GitHub Pages).
 
