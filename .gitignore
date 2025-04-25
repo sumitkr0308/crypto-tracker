@@ -1,3 +1,33 @@
 node_modules/
-package.json/
-package-lock.json
+# dependencies
+/node_modules/
+
+# production build
+/dist/
+build/
+
+
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE/editor folders
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Tailwind/PostCSS cache
+.postcssrc.js
+.cache/
+
+# Testing output
+coverage/
+
+# Lint cache
+.eslintcache
+
+# Parcel (if you're using it)
+/.parcel-cache/
+
