@@ -16,8 +16,6 @@ Check out the live app here:
 
 👉 Crypto Tracker – ([crypto-tracker](https://crypto-tracker-by-sumit.netlify.app/))
 
-Note: Replace the above link with your actual deployed URL (e.g., from Vercel, Netlify, or GitHub Pages).
-
 🛠 Tech Stack
 React — Frontend library
 
