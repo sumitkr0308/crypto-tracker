@@ -7,7 +7,16 @@ A responsive cryptocurrency dashboard built with React and Redux Toolkit.
 Displays real-time data from the CoinGecko API with sorting, searching, and dark mode features.
 
 📸 Demo
-(Embed your GIF or video here, e.g., Loom, Giphy link)
+
+([Demo Video](https://www.loom.com/share/efef8a6a61194446acc27b39e8775464?sid=167703f5-c453-487e-b876-a971e1ff4579))
+
+🌐 Live Demo
+
+Check out the live app here:
+
+👉 Crypto Tracker – (https://crypto-tracker-by-sumit.netlify.app/)
+
+Note: Replace the above link with your actual deployed URL (e.g., from Vercel, Netlify, or GitHub Pages).
 
 🛠 Tech Stack
 React — Frontend library
@@ -42,13 +51,14 @@ crypto-tracker/
 ├── index.html
 ├── package.json
 ├── package-lock.json
+├── tailwind.config.js
 
 
 ⚙️ Setup Instructions
+
 Clone the repository:
 git clone https://github.com/sumitkr0308/crypto-tracker.git
 cd crypto-tracker
-
 
 Install dependencies:
 npm install
