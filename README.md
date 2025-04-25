@@ -1,6 +1,8 @@
 
 🚀 Crypto Tracker
+
   Your real-time gateway to the top cryptocurrencies 🔥
+  
 A responsive cryptocurrency dashboard built with React and Redux Toolkit.
 Displays real-time data from the CoinGecko API with sorting, searching, and dark mode features.
 
