@@ -1,0 +1,22 @@
+{
+  "name": "crypto-tracker",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.7.0",
+    "@tailwindcss/postcss": "^4.1.4",
+    "parcel": "^2.14.4",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-redux": "^9.2.0",
+    "recharts": "^2.15.3",
+    "tailwindcss": "^4.1.4"
+  }
+}
